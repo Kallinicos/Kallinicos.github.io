@@ -1,0 +1,32 @@
+.page-background {
+    background: url(sbgimage.jpg) no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cta {
+    position: relative;
+    top: 40%;
+    transform: translateY(-40%);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 3rem; 
+}
+
+#mc_embed_signup {
+    clear:center; font:14px Helvetica,Arial,sans-serif;
+}
+
+.btn-danger{
+    background-color: thistle;
+    border-color: thistle;
+}
+
+.btn-danger:hover {
+    background-color: lightgrey;
+    border-color: lightgrey;
+}
+
+header {
+    font-size: 3em;
+    color: thistle;
+}
